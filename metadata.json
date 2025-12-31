@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Smart Aadhaar: AI+Bhashini Edition",
+  "description": "Enterprise-grade Aadhaar assistant powered by Google Gemini reasoning and Bhashini linguistic precision. Simplified, conversational, and multi-engine.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
